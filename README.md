@@ -43,7 +43,7 @@ npx hardhat help
 
 ### Authors
 
-- [Your Name](https://github.com/Ndifreke000) - [@YourTwitterHandle](https://twitter.com/Ndii_ekanem)
+- [Ndifreke Ekanem](https://github.com/Ndifreke000) - [Ndii_ekanem](https://twitter.com/Ndii_ekanem)
 
 ### License
 
